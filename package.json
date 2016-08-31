@@ -1,0 +1,27 @@
+{
+    "author": "gitgetgot",
+    "dependencies": {},
+    "keywords": [],
+    "name": "tutorial",
+    "pebble": {
+        "displayName": "tutorial",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite"
+        ],
+        "uuid": "c30d5be9-976d-4596-983e-d8e5702a9660",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
